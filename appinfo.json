@@ -1,0 +1,34 @@
+{
+    "uuid": "b50ddaa6-5154-45df-9d9f-f99498f3e926",
+    "shortName": "Score",
+    "longName": "Pebble Score",
+    "companyName": "Endless Software Solutions",
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": [ "basalt" ],
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {
+        "dummy": 0
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "ELIPSIS",
+                "file": "images/elipsis.png"
+            },
+            {
+                "type": "png",
+                "name": "MINUS",
+                "file": "images/minus.png"
+            },
+            {
+                "type": "png",
+                "name": "PLUS",
+                "file": "images/plus.png"
+            }
+        ]
+    }
+}
